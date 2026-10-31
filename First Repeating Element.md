@@ -63,4 +63,4 @@ class Solution:
         return minfirst+1 if minfirst != float('inf') else -1
 ```
 
-*Generated on: 31/10/2026, 17:21:41*
+*Generated on: 31/10/2026, 18:35:03*
